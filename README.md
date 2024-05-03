@@ -1,6 +1,7 @@
 # matriz_delosi
 
-A new Flutter project.
+La versión para realizar este aplicativo fue la siguiente:
+Flutter versión 3.7.12
 
 ## Getting Started
 
